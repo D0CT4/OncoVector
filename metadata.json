@@ -1,0 +1,7 @@
+{
+  "name": "OncVect AI",
+  "description": "A clinical decision support tool leveraging AI and simulated vector retrieval to analyze non-specific symptoms for early cancer detection using university case study data.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
